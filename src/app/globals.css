@@ -19,3 +19,6 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+td {
+  @apply w-14 h-14 border-2 border-black;
+}
